@@ -275,6 +275,11 @@ container-name{
         align-items: center;
         padding-top: 20px;
     }
+    .qr {
+  display: none;
+
+ 
+}
 
     /* Ajuste del tamaño del chat en móvil */
     df-messenger {
